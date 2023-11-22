@@ -1,4 +1,4 @@
-from BWFMUSIC.core.bot import ShizukaBot
+from BWFMUSIC.core.bot import BWFBOT
 from BWFMUSIC.core.dir import dirr
 from BWFMUSIC.core.git import git
 from BWFMUSIC.core.userbot import Userbot
