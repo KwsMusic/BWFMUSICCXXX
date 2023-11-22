@@ -9,7 +9,7 @@
 <a href="ashishking2006/AshishGupta20"> 
 <img src="https://img.shields.io/github/repo-size/WCGKING/BRANDEDXSHIZUKA?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/WCGKING/BRANDEDXSHIZUKAcommits/prince"> 
+<a href="https://github.com/ashisking2006/BWFMUSICcommits/ashish"> 
 <img src="https://img.shields.io/github/last-commit/WCGKING/BRANDEDXSHIZUKA?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="ashishking2006/Ashisking2006/BWFMUSIC/issues"> 
