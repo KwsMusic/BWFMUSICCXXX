@@ -27,10 +27,10 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ashishking2006/BWFMUSIC",
+    "https://github.com/KwsMusic/BWFMUSICCXXX",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/ashishking2006/BWFMUSIC")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/KwsMusic/BWFMUSICCXXX")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ALL_QUIZ_TAME")
