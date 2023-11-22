@@ -7,13 +7,13 @@
 <p align="center">
 
 <a href="ashishking2006/AshishGupta20"> 
-<img src="https://img.shields.io/github/repo-size/WCGKING/BRANDEDXSHIZUKA?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+<img src="https://img.shields.io/github/repo-size/ashisking2006/BWFMUSIC?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/ashisking2006/BWFMUSICcommits/ashish"> 
-<img src="https://img.shields.io/github/last-commit/WCGKING/BRANDEDXSHIZUKA?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/ashisking2006/BWFMUSICcommits/prince"> 
+<img src="https://img.shields.io/github/last-commit/ashisking2006/BWFMUSIC?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="ashishking2006/Ashisking2006/BWFMUSIC/issues"> 
-<img src="https://img.shields.io/github/issues/ashisking2006/BRANDEDXSHIZUKA?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+<img src="https://img.shields.io/github/issues/ashisking2006/BWFMUSIC?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="https://github.com/ashishking2006/BWFMUSIC/network/members"> 
 <img src="https://img.shields.io/github/forks/ashishking2006/BWFMUSIC?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
@@ -73,19 +73,19 @@
 
 <br>
 
-- `/play <song name>` - play song you requested
+- /play <song name> - play song you requested
 
-- `/playlist` - Show now playing list
+- /playlist - Show now playing list
 
-- `/song <song name>` - download songs you want quickly
+- /song <song name> - download songs you want quickly
 
-- `/search <query>` - search videos on youtube with details
+- /search <query> - search videos on youtube with details
 
-- `/vsong <song name>` - download videos you want quickly
+- /vsong <song name> - download videos you want quickly
 
-- `/lyric <song name>` - lyrics scrapper
+- /lyric <song name> - lyrics scrapper
 
-- `/vk <song name>` - generate song without download
+- /vk <song name> - generate song without download
 
 </details>
 
@@ -97,21 +97,21 @@
 
 <br>
 
-- `/player` - open music player settings panel
+- /player - open music player settings panel
 
-- `/pause` - pause song play
+- /pause - pause song play
 
-- `/resume` - resume song play
+- /resume - resume song play
 
-- `/skip` - play next song
+- /skip - play next song
 
-- `/end` - stop music play
+- /end - stop music play
 
-- `/ping` - check the bot ping status
+- /ping - check the bot ping status
 
-- `/auth` - authorized people to access the admin commands
+- /auth - authorized people to access the admin commands
 
-- `/deauth` - deauthorized people to access the admin commands
+- /deauth - deauthorized people to access the admin commands
 
 </details>
 
@@ -123,9 +123,9 @@
 
 <br>
 
-- `/broadcast` - order the assistant to leave all groups
+- /broadcast - order the assistant to leave all groups
 
-- `/gban` - gban user
+- /gban - gban user
 
 </details>
 
@@ -139,13 +139,13 @@
 
 <br>
 
-- `/broadcast` - send a broadcast message from the bot
+- /broadcast - send a broadcast message from the bot
 
-- `/block` - block people for using your bot
+- /block - block people for using your bot
 
-- `/unblock` - unblock people you blocked for using your bot
+- /unblock - unblock people you blocked for using your bot
 
-- `/blocklist` - show the list of all people who's blocked for using your bot
+- /blocklist - show the list of all people who's blocked for using your bot
 
 </details>
 
@@ -181,9 +181,7 @@
 
 <br>
 
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ​🇧​​🇷​​🇦​​🇳​​🇩​​🇪​​🇩​ ​🇰​​🇮​​🇳​​🇬​ sʜɪᴢᴜᴋᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ 
-
-        
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ​🇧​​🇷​​🇦​​🇳​​🇩​​🇪​​🇩​ ​🇰​​🇮​​🇳​​🇬​ sʜɪᴢᴜᴋᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ
 
 <p align="center"><a href="https://my.scalingo.com/deploy?template=ashishking2006/AshishGupta20"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
@@ -221,7 +219,7 @@
 
 <br>
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/y0t059hDsW8)**</i>
+<i>[Watch Deploying Tutorial...](https://youtu.be/y0t059hDsW8)</i>
 
 > ʜᴇʀᴏᴋᴜ ʜᴀs ᴛᴡᴏ ᴠᴀʀs[ ʜᴇʀᴏᴋᴜ_ᴀᴘɪ_ᴋᴇʏ & ʜᴇʀᴏᴋᴜ_ᴀᴘᴘ_ɴᴀᴍᴇ ] ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴛᴏ ᴡᴏʀᴋ. 
 
@@ -235,7 +233,7 @@
 
    
 
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FWCGKING%2FBWFMUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fashisking2006 %2FBWFMUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 </details>
 
@@ -249,51 +247,51 @@
 
 - Upgrade and Update by :
 
-`sudo apt-get update && sudo apt-get upgrade -y`
+sudo apt-get update && sudo apt-get upgrade -y
 
 - Install Ffmpeg by :
 
-`sudo apt-get install python3-pip ffmpeg -y`
+sudo apt-get install python3-pip ffmpeg -y
 
 - Install required packages by :
 
-`sudo apt-get install python3-pip -y`
+sudo apt-get install python3-pip -y
 
 - Install pip by :
 
-`sudo pip3 install -U pip`
+sudo pip3 install -U pip
 
 - Install Node js by :
 
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 
 - Clone the repository by :
 
-`git clone https://github.com/WCGKING/BRANDEDXSHIZUKA && cd BRANDEDXSHIZUKA`
+git clone https://github.com/ashisking2006/BWFMUSIC && cd BWFMUSIC
 
 - Install requirements by :
 
-`pip3 install -U -r requirements.txt`
+pip3 install -U -r requirements.txt
 
 - Fill your variables in the env by :
 
-`vi sample.env`<br>
+vi sample.env<br>
 
-Press `I` on the keyboard for editing env<br>
+Press I on the keyboard for editing env<br>
 
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+Press Ctrl+C when you're done with editing env and :wq to save the env<br>
 
 - Rename the env file by :
 
-`mv sample.env .env`
+mv sample.env .env
 
 - Install screen to keep running your bot when you close the terminal by :
 
-`sudo apt install screen -y`
+sudo apt install screen -y
 
 - Finally run the bot by :
 
-`screen bash start`
+screen bash start
 
 <br>
 
@@ -348,4 +346,3 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
 </details>
-
