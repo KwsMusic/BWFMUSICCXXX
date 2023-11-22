@@ -1,348 +1,92 @@
-<h1 align="center"><b> ༄ᵒ᭄☯︎Asʜɪsʜ乂GUPTA࿐ 🇮🇳 </b></h1>
+━━━━━━━━━━━━━━━━━━
+<p align="center">
+🇮🇳 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒 🇮🇳
 
-<h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<!--
+QUEEN is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-<p align="center"><a href="https://telegram.dog/BRANDRD_21"><img src="https://te.legra.ph/file/90e709718e7dac641aaf7.jpg" width="400"></a></p>
 
 <p align="center">
-
-<a href="ashishking2006/AshishGupta20"> 
-<img src="https://img.shields.io/github/repo-size/ashisking2006/BWFMUSIC?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-
-<a href="https://github.com/ashisking2006/BWFMUSICcommits/prince"> 
-<img src="https://img.shields.io/github/last-commit/ashisking2006/BWFMUSIC?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-
-<a href="ashishking2006/Ashisking2006/BWFMUSIC/issues"> 
-<img src="https://img.shields.io/github/issues/ashisking2006/BWFMUSIC?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-
-<a href="https://github.com/ashishking2006/BWFMUSIC/network/members"> 
-<img src="https://img.shields.io/github/forks/ashishking2006/BWFMUSIC?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-
-<a href="https://pypi.org/project/Telethon/"> 
-<img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/AHI-QUEEN/count.svg" />
 </p>
 
-> ⭐️ Thanks to everyone for using BWF,  🤭 That is the greatest pleasure we have !
 
-## Features Of BWF QUEEN🥰And Commands ❤️
 
-<details>
 
-<summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
+<h2 align="center">
+    ─「DOSTU❤ 」─
 
-<br>
+★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
+</h2>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+AHI😎">
+<p align="center">
+  <img src="https://telegra.ph/file/a0b570416d13908759702.jpg">
+</p>
 
-- Thumbnail Support
+𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [QUEEN❤](https://t.me/BEWAFAMUSICBOT)
 
-- Audio And Video
 
-- Gban User
 
-- Showing track names when skipping
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
 
-- Youtube, Local playback support
 
-- Settings panel
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-- Control with buttons
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+</h3>
 
-- Userbot auto join
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SubhiChiku/DOSTU"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SubhiChiku/DOSTU"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
-- Channel Music Play
+- [![YouTube Video Views](https://img.shields.io/youtube/views/U8T5W3J1FNo?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/U8T5W3J1FNo)
 
-- Keyboard selection support for youtube play
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐕𝐢𝐩+𝐃𝐦+...">
+<p align="center">
+<a href="https://telegram.me/love_ahi"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎  AHI %20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+</h3>
 
-- Lyrics Scrapper
-
-- Unlimited Queue
-
-- Broadcast Bot
-
-- Statistic Collector
-
-- Block / Unblock (restrict user for using your bot)
-
-</details>
-
-#### Overall Basic Commands 😂
-
-<details>
-
-<summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
-
-<br>
-
-- /play <song name> - play song you requested
-
-- /playlist - Show now playing list
-
-- /song <song name> - download songs you want quickly
-
-- /search <query> - search videos on youtube with details
-
-- /vsong <song name> - download videos you want quickly
-
-- /lyric <song name> - lyrics scrapper
-
-- /vk <song name> - generate song without download
-
-</details>
-
-### Only Admin Can Exicute 🙄
-
-<details>
-
-<summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
-
-<br>
-
-- /player - open music player settings panel
-
-- /pause - pause song play
-
-- /resume - resume song play
-
-- /skip - play next song
-
-- /end - stop music play
-
-- /ping - check the bot ping status
-
-- /auth - authorized people to access the admin commands
-
-- /deauth - deauthorized people to access the admin commands
-
-</details>
-
-### Sudo Commands 🤭
-
-<details>
-
-<summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
-
-<br>
-
-- /broadcast - order the assistant to leave all groups
-
-- /gban - gban user
-
-</details>
-
-    
-
-### Only Owner 🙈
-
-<details>
-
-<summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
-
-<br>
-
-- /broadcast - send a broadcast message from the bot
-
-- /block - block people for using your bot
-
-- /unblock - unblock people you blocked for using your bot
-
-- /blocklist - show the list of all people who's blocked for using your bot
-
-</details>
-
-</details>
-
-# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
-
-<details>
-
-<summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
-
-<br>
-
-    
-
-- [ᴘʏᴛʜᴏɴ𝟹.𝟿](https://www.python.org/downloads/release/python-390/)
-
-- [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
-
-- [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://telegram.dog/botfather)
-
-- [ᴍᴏɴɢᴏᴅʙ URI](https://te.legra.ph/How-To-get-Mongodb-URI-04-06)
-
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://telegram.dog/BRANDEDSTRINGSESSION_BOT)
-
-    
-
-</details>
-
-<details>
-
-<summary><b>sᴄᴀʟɪɴɢᴏ</b></summary>
-
-<br>
-
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ​🇧​​🇷​​🇦​​🇳​​🇩​​🇪​​🇩​ ​🇰​​🇮​​🇳​​🇬​ sʜɪᴢᴜᴋᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ
-
-<p align="center"><a href="https://my.scalingo.com/deploy?template=ashishking2006/AshishGupta20"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
-
-    
-
-</details>
-
-<details>
-
-<summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
-
-<br>
-
-    
-
-> ʏᴏᴜ'ʟʟ ɴᴇᴇᴅ ᴀ ᴀᴘɪ_ɪᴅ & ᴀᴘɪ_ʜᴀsʜ ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ. 
-
-> ᴀʟᴡᴀʏs ʀᴇᴍᴇʙᴇʀ ᴛᴏ ᴜsᴇ ɢᴏᴏᴅ ᴀᴘɪ ᴄᴏᴍʙᴏ ᴇʟsᴇ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴄᴏᴜʟᴅ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ.
-
-<h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ʀᴇᴘʟ: </h4>    
-
-<p><a href="https://replit.com/@a62584854/Khushi-Music-String-Gen?s=app"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
-
-<h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
-
-<p><a href="https://telegram.dog/BRANDEDSTRINGSESSION_BOT"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
-
-    
-
-</details>
-
-<details>
-
-<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
-
-<br>
-
-<i>[Watch Deploying Tutorial...](https://youtu.be/y0t059hDsW8)</i>
-
-> ʜᴇʀᴏᴋᴜ ʜᴀs ᴛᴡᴏ ᴠᴀʀs[ ʜᴇʀᴏᴋᴜ_ᴀᴘɪ_ᴋᴇʏ & ʜᴇʀᴏᴋᴜ_ᴀᴘᴘ_ɴᴀᴍᴇ ] ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴛᴏ ᴡᴏʀᴋ. 
-
-> ʙʏ sᴇᴛᴛɪɴɢ ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ, sᴇᴛ ᴠᴀʀ, ᴇᴅɪᴛ ᴠᴀʀ, ᴅᴇʟᴇᴛᴇ ᴠᴀʀs , ᴄʜᴇᴄᴋ ᴅʏɴᴏ ᴜsᴀɢᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙᴏᴛ. 
-
-> ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
-
-    
-
-<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ​🇧​​🇷​​🇦​​🇳​​🇩​​🇪​​🇩​ ​🇰​​🇮​​🇳​​🇬​ ᴏɴ ʜᴇʀᴏᴋᴜ</h4> 
-
-   
-
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fashisking2006 %2FBWFMUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
-
-</details>
-
-<details>
-
-<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ᴠᴘs</b></summary>
-
-<br>
-
-- Get your [Necessary Variables](https://github.com/ashisking2006/BWFMUSIC/blob/main/sample.env)
-
+- Get your [Necessary Variables](https://github.com/SubhiChiku/DOSTU/blob/master/sample.env)
 - Upgrade and Update by :
-
 sudo apt-get update && sudo apt-get upgrade -y
-
 - Install Ffmpeg by :
-
 sudo apt-get install python3-pip ffmpeg -y
-
 - Install required packages by :
-
 sudo apt-get install python3-pip -y
-
 - Install pip by :
-
 sudo pip3 install -U pip
-
 - Install Node js by :
-
 curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
-
 - Clone the repository by :
-
-git clone https://github.com/ashisking2006/BWFMUSIC && cd BWFMUSIC
-
+git clone https://github.com/SubhiChiku/DOSTU
 - Install requirements by :
-
 pip3 install -U -r requirements.txt
-
 - Fill your variables in the env by :
-
 vi sample.env<br>
-
 Press I on the keyboard for editing env<br>
-
 Press Ctrl+C when you're done with editing env and :wq to save the env<br>
-
 - Rename the env file by :
-
 mv sample.env .env
-
-- Install screen to keep running your bot when you close the terminal by :
-
-sudo apt install screen -y
-
+- Install tmux to keep running your bot when you close the terminal by :
+sudo apt install tmux && tmux
 - Finally run the bot by :
+bash start
+- For getting out from tmux session : Press Ctrl+b and then d<br>
+━━━━━━━━━━━━━━━━━━━━
 
-screen bash start
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
 
-<br>
+<p align="center">
+<a href="https://telegram.me/DOSTU_KA_ADDA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
-</details>
-
-# Owner And Credit)
-
-<details>
-
-<summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
-
-<br>
-
-## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
-
-- [L2R KING](https://t.me/L2R_KING0)
-
-- [AHI CHANNEL LINK](https://t.me/AHI_DOSTU)
-
-- [BEWAFA WORLD](https://t.me/bwd_music1)
-
-- [FREE CC ](https://t.me/BWF_K_WORLD))
-
-</details>
-
-<details>
-
-<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-
-<br>
-
-# ❤️ Support<
-
-<a href="https://telegram.me/BEWAFAMUSICBOT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-
-<a href="https://t.me/L2R_KING0"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-</details>
-
-## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
-
-<details>
-
-<summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
-
-<br>
-
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ sʜɪᴢᴜᴋᴀ:
-
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-
-</details>
+<p align="center">
+<a href="https://telegram.me/AHI_DOSTU"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
