@@ -1,21 +1,21 @@
-<h1 align="center"><b>❤️ BRANDED SHIZUKA MUSIC ❤️</b></h1>
+<h1 align="center"><b> ༄ᵒ᭄☯︎Asʜɪsʜ乂GUPTA࿐ 🎟️ </b></h1>
 
 <h4 align="center">Shizuka A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://telegram.dog/BRANDRD_21"><img src="https://te.legra.ph/file/90e709718e7dac641aaf7.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.dog/BRANDRD_21"><img src="https://i.postimg.cc/QMt2kYS5/20231117-233101.png" width="400"></a></p>
 
 <p align="center">
 
-<a href="https://github.com/WCGKING/BRANDEDXSHIZUKA"> 
+<a href="https://github.com/KwsMusic/BWFMUSICCXXX"> 
 <img src="https://img.shields.io/github/repo-size/WCGKING/BRANDEDXSHIZUKA?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
 
 <a href="https://github.com/WCGKING/BRANDEDXSHIZUKAcommits/prince"> 
 <img src="https://img.shields.io/github/last-commit/WCGKING/BRANDEDXSHIZUKA?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/WCGKING/BRANDEDXSHIZUKA/issues"> 
+<a href="https://github.com/KwsMusic/BWFMUSICCXXX/issues"> 
 <img src="https://img.shields.io/github/issues/WCGKING/BRANDEDXSHIZUKA?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
 
-<a href="https://github.com/WCGKING/BRANDEDXSHIZUKA/network/members"> 
+<a href="https://github.com/KwsMusic/BWFMUSICCXXX/network/members"> 
 <img src="https://img.shields.io/github/forks/WCGKING/BRANDEDXSHIZUKA?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
 
 <a href="https://pypi.org/project/Telethon/"> 
@@ -185,7 +185,7 @@
 
         
 
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/WCGKING/BRANDEDXSHIZUKA"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/KwsMusic/BWFMUSICCXXX"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
     
 
@@ -245,7 +245,7 @@
 
 <br>
 
-- Get your [Necessary Variables](https://github.com/WCGKING/BRANDEDXSHIZUKA/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/KwsMusic/BWFMUSICCXXX/blob/main/sample.env)
 
 - Upgrade and Update by :
 
@@ -269,7 +269,7 @@
 
 - Clone the repository by :
 
-`git clone https://github.com/WCGKING/BRANDEDXSHIZUKA && cd BRANDEDXSHIZUKA`
+`git clone https://github.com/KwsMusic/BWFMUSICCXXX && cd BRANDEDXSHIZUKA`
 
 - Install requirements by :
 
