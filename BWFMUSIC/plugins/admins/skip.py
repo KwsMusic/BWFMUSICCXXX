@@ -5,7 +5,7 @@ import config
 from config import BANNED_USERS
 from strings import get_command
 from BWFMUSIC import YouTube, app
-from BWFMUSIC.core.call import Nihal
+from BWFMUSIC.core.call import Aarohi
 from BWFMUSIC.misc import db
 from BWFMUSIC.utils.database import get_loop
 from BWFMUSIC.utils.decorators import AdminRightsCheck
@@ -60,7 +60,7 @@ async def skip(cli, message: Message, _, chat_id):
                                             message.from_user.first_name
                                         )
                                     )
-                                    await Nihal.stop_stream(chat_id)
+                                    await Aarohi.stop_stream(chat_id)
                                 except:
                                     return
                                 break
@@ -87,7 +87,7 @@ async def skip(cli, message: Message, _, chat_id):
                     _["admin_10"].format(message.from_user.first_name)
                 )
                 try:
-                    return await Nihal.stop_stream(chat_id)
+                    return await Aarohi.stop_stream(chat_id)
                 except:
                     return
         except:
@@ -95,7 +95,7 @@ async def skip(cli, message: Message, _, chat_id):
                 await message.reply_text(
                     _["admin_10"].format(message.from_user.first_name)
                 )
-                return await Nihal.stop_stream(chat_id)
+                return await Aarohi.stop_stream(chat_id)
             except:
                 return
     queued = check[0]["file"]
@@ -111,7 +111,7 @@ async def skip(cli, message: Message, _, chat_id):
                 _["admin_11"].format(title)
             )
         try:
-            await Nihal.skip_stream(chat_id, link, video=status)
+            await Aarohi.skip_stream(chat_id, link, video=status)
         except Exception:
             return await message.reply_text(_["call_9"])
         button = telegram_markup(_, chat_id)
@@ -119,8 +119,10 @@ async def skip(cli, message: Message, _, chat_id):
         run = await message.reply_photo(
             photo=img,
             caption=_["stream_1"].format(
-                user,
+                title[:27],
                 f"https://t.me/{app.username}?start=info_{videoid}",
+                check[0]["dur"],
+                user,
             ),
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -140,7 +142,7 @@ async def skip(cli, message: Message, _, chat_id):
         except:
             return await mystic.edit_text(_["call_9"])
         try:
-            await Nihal.skip_stream(chat_id, file_path, video=status)
+            await Aarohi.skip_stream(chat_id, file_path, video=status)
         except Exception:
             return await mystic.edit_text(_["call_9"])
         button = stream_markup(_, videoid, chat_id)
@@ -148,8 +150,10 @@ async def skip(cli, message: Message, _, chat_id):
         run = await message.reply_photo(
             photo=img,
             caption=_["stream_1"].format(
-                user,
+                title[:27],
                 f"https://t.me/{app.username}?start=info_{videoid}",
+                check[0]["dur"],
+                user,
             ),
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -158,7 +162,7 @@ async def skip(cli, message: Message, _, chat_id):
         await mystic.delete()
     elif "index_" in queued:
         try:
-            await Nihal.skip_stream(chat_id, videoid, video=status)
+            await Aarohi.skip_stream(chat_id, videoid, video=status)
         except Exception:
             return await message.reply_text(_["call_9"])
         button = telegram_markup(_, chat_id)
@@ -171,7 +175,7 @@ async def skip(cli, message: Message, _, chat_id):
         db[chat_id][0]["markup"] = "tg"
     else:
         try:
-            await Nihal.skip_stream(chat_id, queued, video=status)
+            await Aarohi.skip_stream(chat_id, queued, video=status)
         except Exception:
             return await message.reply_text(_["call_9"])
         if videoid == "telegram":
@@ -206,8 +210,10 @@ async def skip(cli, message: Message, _, chat_id):
             run = await message.reply_photo(
                 photo=img,
                 caption=_["stream_1"].format(
-                    user,
+                    title[:27],
                     f"https://t.me/{app.username}?start=info_{videoid}",
+                    check[0]["dur"],
+                    user,
                 ),
                 reply_markup=InlineKeyboardMarkup(button),
             )
