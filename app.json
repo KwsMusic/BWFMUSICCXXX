@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/ashishking2006/AshishGupta20",
+        "value": "https://github.com/KwsMusic/BWFMUSICCXXX",
         "required": true
       },
       "UPSTREAM_BRANCH": {
